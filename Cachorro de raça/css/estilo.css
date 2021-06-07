@@ -1,0 +1,87 @@
+*{margin: 0; padding: 0;}
+
+p{
+   	color: #ffffff;
+   	font-family: Candara;
+   	padding: 8px;
+}
+
+strong{
+	padding: 10px;
+}
+
+h3{
+	padding: 4px;
+    font-family: Neo Sans Std;
+}
+
+#Husky{
+	padding: 8px;
+}
+
+#p1{
+	padding: 6px;
+	font-style: italic;
+}
+
+a{
+	color: #ffffff;
+	font-family: Candara;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+a:hover{
+	font-family: Neo Sans Std;
+	color: #1ECCFC;
+	font-size: 18px;
+}
+
+#pai{background-color: #BABDBF;
+	width: 1200px;
+    height: 950px;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    margin-left: -600px;
+}
+
+#topo{background-color: #F2CB05;
+    width: 1200px;
+    height: 280px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+#menu{background-color: #F29F05;
+    width: 1200px;
+    height: 50px;
+    position: absolute;
+    left: 0px;
+    top: 280px;
+}
+
+#conteudo{background-color: #F28705;
+    width: 800px;
+    height: 550px;
+    position: absolute;
+    left: 0px;
+    top: 320px;
+}
+
+#lateral{background-color: #F7C80C;
+    width: 400px;
+    height: 550px;
+    position: absolute;
+    left: 800px;
+    top: 320px;
+}
+         
+#rodape{background-color: #D96704;
+    width: 1200px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    top: 850px;
+}
