@@ -1,2 +1,2 @@
-# layout-do-site
-layout desenvolvido para uma atividade escolar
+# Layout-do-site
+Layout desenvolvido para uma atividade escolar
