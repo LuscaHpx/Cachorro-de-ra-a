@@ -1,2 +1,2 @@
-# Cachorro-de-ra-a
-Site desenvolvido para uma atividade escolar
+# layout-do-site
+layout desenvolvido para uma atividade escolar
